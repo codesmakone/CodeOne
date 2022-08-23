@@ -4,30 +4,30 @@ const Content = () =>{
     return(
         <div>
             <div className="my-5" id="content">
-                <h4 className="text-2xl font-medium mb-1">Table Of Content</h4>
+                <h4 className="text-2xl font-semibold mb-1">Table Of Contents</h4>
                 <ul className="list-disc my-3 ml-6">
                     <li>
-                      <a href="#what-is" className="text-blue-400 font-medium">
-                        What Is CODEONE?
+                      <a href="#what-is" className="text-blue-400 font-semibold">
+                        What Is CodeOne?
                       </a>
                     </li>
                     <li>
-                      <a href="#workshop" className="text-blue-400 font-medium">
-                        The CODEONE Workshop 2022
+                      <a href="#workshop" className="text-blue-400 font-semibold">
+                        The CodeOne Workshop 2022
                       </a>
                     </li>
                     <li>
-                      <a href="#description" className="text-blue-400 font-medium">
-                        Brief Description Of Workshop Sessions
+                      <a href="#description" className="text-blue-400 font-semibold">
+                        Brief Descriptions Of Workshop Sessions
                       </a>
                     </li>
-                    <li>
-                      <a href="#material" className="text-blue-400 font-medium">
+                    {/* <li>
+                      <a href="#material" className="text-blue-400 font-semibold">
                         Workshop Materials
                       </a>
-                    </li>
+                    </li> */}
                     <li>
-                      <a href="#register" className="text-blue-400 font-medium">
+                      <a href="#register" className="text-blue-400 font-semibold">
                         Register
                       </a>
                     </li>
