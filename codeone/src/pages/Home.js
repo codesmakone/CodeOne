@@ -6,6 +6,7 @@ import What from "../components/What";
 import Workshop from "../components/workshop";
 import Sessions from "../components/sessions";
 import Register from '../components/register';
+import Materials from '../components/Materials';
 
 const Home = () =>{
     return(
@@ -15,6 +16,7 @@ const Home = () =>{
                 <What/>
                 <Workshop/>
                 <Sessions/>
+                <Materials/>
                 <Register/>
         <div className='fixed bottom-0 right-0 mb-10 mr-10'>
           <a href="#" className='text-4xl text-opacity-60'>
