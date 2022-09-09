@@ -34,7 +34,7 @@ const Selection_1 = () => {
 
       <hr/>
       <div className='my-5'>
-      <h1 className='text-2xl font-medium mb-5'>Level 1A: Design A web</h1>
+      <h1 className='text-2xl font-medium mb-5'>Level 1B: Design A web</h1>
         <p className='font-bold'> Task Description</p>
         <p>
         For this task you are required to design an e-commerce landing page website.  
