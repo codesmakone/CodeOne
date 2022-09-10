@@ -48,7 +48,7 @@ const Selection = () => {
         <p className='mb-4'>
         If you are not using react. zip/compress all of your codes and submit them using the google form provided. If are using react zip all of the files inside your react folder except your node_modules folder and then submit using the google form.
         </p>
-        <a target="blank" href="google.com" className='text-blue-500 mt-2 font-bold'>Link To Submission Form</a>
+        <a target="blank" href="https://forms.gle/MdjBZ8dvnFbi5Fg68" className='text-blue-500 mt-2 font-bold'>Link To Submission Form</a>
       </div>
         <hr/>
       <div className='flex justify-between'>
