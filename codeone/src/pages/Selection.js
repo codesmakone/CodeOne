@@ -14,7 +14,7 @@ const Selection = () => {
       <div className='my-5'>
         <h1 className='text-2xl font-medium mb-5'>Selection Process</h1>
         <p>
-          The selection will consist of 2 parts: a coding task (10th September 2022- 12th September 2022) and an interview. You will only be invited to the interview if you successfully submit the coding task.
+          The selection will consist of 2 parts: a coding task (10th September 2022- 18th September 2022) and an interview. You will only be invited to the interview if you successfully submit the coding task.
         </p>
       </div>
         <hr/>      
@@ -35,7 +35,7 @@ const Selection = () => {
       <div className='my-5'>
         <h1 className='text-2xl font-medium mb-5'>Deadlines</h1>
         <p>
-        The submission deadline for the coding task is 00:59 WIB on the 12th September 2022. Any submissions later than that will not be accepted.
+        The submission deadline for the coding task is 18:00 WIB on the 18th September 2022. Any submissions later than that will not be accepted.
         </p>
       </div>
         <hr/>
