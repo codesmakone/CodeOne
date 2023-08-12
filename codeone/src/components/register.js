@@ -5,7 +5,7 @@ const Register = () =>{
         <div>
             <div className="my-5 " id="register">
                 <h4 className="text-2xl font-medium mb-5">Register</h4>
-                You can register for the workshop at <a className='text-blue-400 font-semibold' target="blank" href="https://url.smakone.org/CodeOne2022">https://url.smakone.org/CodeOne2022</a>
+                You can register for the workshop at <a className='text-blue-400 font-semibold' target="blank" href="https://url.smakone.org/CodeOne2023 ">https://url.smakone.org/CodeOne2023 </a>
             </div>
             <hr/>
         </div>
