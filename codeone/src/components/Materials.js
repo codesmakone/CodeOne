@@ -16,10 +16,10 @@ const Materials = () => {
               <p className='text-lg'>
                 <a href='https://drive.google.com/file/d/1gQoKLVZD125MuhcryDA3eMfkJOLU0CWU/view?usp=sharing' target="blank" className='text-blue-400 font-semibold'>Video</a>
               </p>
-              {/* <h4 className="text-lg font-bold">CodeOne Selection</h4>
+              <h4 className="text-lg font-bold">CodeOne Selection</h4>
               <p className='text-lg'>
                 <a href='https://codeone.smakone.org/selection' target="blank" className='text-blue-400 font-semibold'>Selection Information</a>
-              </p> */}
+              </p>
           </div>
           <hr/>
     </div>

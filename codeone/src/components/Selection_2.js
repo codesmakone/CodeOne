@@ -1,37 +1,52 @@
 import React from 'react'
+import starbuck from '../Images/Starbucks.webp'
 
 const Selection_2 = () => {
   return (
     <div>
       <div className='my-5'>
-        <h1 className='text-2xl font-medium mb-5'>Level 2: Modified Counter</h1>
+        <h1 className='text-2xl font-medium mb-5'>Level 2A: Copying A Website</h1>
         <p className='font-bold'> Task Description</p>
         <p>
-        For this task you are required to modify the counter created in the workshop. You have to add a text input and subtraction, multiplication, and division button. When you put a number in the text input you should be able to add, subtract, multiply or divide the current counter number by the number you inputted.
+        For this task you are required to copy the website in this task demo. Images for the page could be downloaded <a target="blank" href='https://drive.google.com/drive/folders/1IdYVPw4LEd_iXZTMseQ1ek8lOzmInD2b?usp=sharing' className='text-blue-500 font-bold'>here</a>. 
+        </p>
+      </div>
+      <br/>
+        <p className='font-bold'> Submission Requirement</p>
+        <p>
+        There are no submission requirements for this task
+        </p>
+
+        <br/>
+        <p className='font-bold'>Bonus Points</p>
+        <ul className='list-disc list-inside'>
+          <li>Insert the text</li>
+          <li>Insert the image</li>
+          <li>Style the text and image</li>
+          <li>Put necessary margin and paddings</li>
+          <li>Finish the rest of the design</li>
+          <li>Put it in React</li>
+        </ul>
+
+      <br/>
+        <p className='font-bold'>Demo</p>
+        <img src={starbuck} alt="demo images"/>
+
+      <hr/>
+      <div className='my-5'>
+      <h1 className='text-2xl font-medium mb-5'>Level 2B: Design A web</h1>
+        <p className='font-bold'> Task Description</p>
+        <p>
+        For this task you are required to design an e-commerce landing page website.  
         </p>
       </div>
       <br/>
         <p className='font-bold'> Submission Requirement</p>
         <ul className='list-disc list-inside'>
-          <li>Add a subtraction feature</li>
-          <li>Add the custom addition</li>
-          <li>Add the custom subtraction, multiplication, and division</li>
+          <li>Design minimal 2 landing pages of an e-commerce website</li>
+          <li>Use Figma</li>
         </ul>
       <br/>
-
-        <p className='font-bold'>Bonus Points</p>
-        <ul className='list-disc list-inside'>
-          <li>Use react</li>
-          <li>Add design</li>
-          <li>Counter does not reset when page is refreshed</li>
-        </ul>
-
-      <br/>
-      <div className='mb-2'>
-        <p className='font-bold'>Demo</p>
-        <a href='https://codeone.smakone.org/calculator' target="blank" className='text-blue-500 font-bold'>Counter</a>
-      </div>
-
       <hr/>
     </div>
   )

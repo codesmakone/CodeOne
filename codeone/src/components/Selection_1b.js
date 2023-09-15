@@ -1,10 +1,10 @@
 import React from 'react'
 
-const Selection_4 = () => {
+const Selection_1b = () => {
   return (
     <div>
       <div className='my-5'>
-        <h1 className='text-2xl font-medium mb-5'>Level 4: Todo List</h1>
+        <h1 className='text-2xl font-medium mb-5'>Level 1B: Todo List</h1>
         <p className='font-bold'> Task Description</p>
         <p>
         For this task you are required to create an app which displays a list of activities when you enter the task in the input box. The user should be able to add, edit, and delete todo list.
@@ -36,4 +36,4 @@ const Selection_4 = () => {
   )
 }
 
-export default Selection_4
+export default Selection_1b
