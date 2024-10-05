@@ -6,6 +6,7 @@ import Selection3 from '../components/Selection_3'
 
 const Selection = () => {
   return (
+    <div className='p-10'>
     <div className='container mx-auto px-5 xl:px-0'>
       <div className='mt-10 mb-5'>
         <h1 className='text-5xl font-bold mb-1'>CODEONE Selection Information</h1>
@@ -14,7 +15,7 @@ const Selection = () => {
       <div className='my-5'>
         <h1 className='text-2xl font-medium mb-5'>Selection Process</h1>
         <p>
-          The selection will consist of 2 parts: a coding task (9th September 2023- 20th September 2023) and an interview. You will only be invited to the interview if you successfully submit the coding task.
+          The selection will consist of 2 parts: a coding task (5th September 2024 - 12th September 2024) and an interview. You will only be invited to the interview if you successfully submit the coding task.
         </p>
       </div>
         <hr/>      
@@ -35,7 +36,7 @@ const Selection = () => {
       <div className='my-5'>
         <h1 className='text-2xl font-medium mb-5'>Deadlines</h1>
         <p>
-        The submission deadline for the coding task is 23:59 WIB on the 20th September 2023. Any submissions later than that will not be accepted.
+        The submission deadline for the coding task is 23:59 WIB on the 12th September 2023. Any submissions later than that will not be accepted.
         </p>
       </div>
         <hr/>
@@ -48,7 +49,7 @@ const Selection = () => {
         <p className='mb-4'>
         If you are not using react. zip/compress all of your codes and submit them using the google form provided. If are using react zip all of the files inside your react folder except your node_modules folder and then submit using the google form.
         </p>
-        <a target="blank" href="https://forms.gle/CHFDc4fJFsZFPwam6" className='text-blue-500 mt-2 font-bold'>Link To Submission Form</a>
+        <a target="blank" href="https://forms.gle/nYmZmidoFTmFBbgr9" className='text-blue-500 mt-2 font-bold'>Link To Submission Form</a>
       </div>
         <hr/>
       <div className='flex justify-between'>
@@ -56,10 +57,11 @@ const Selection = () => {
         <a href='https://codeone.smakone.org/'> ← Back To Mainpage</a>
       </h5>
       <h5 className='text-right my-3 pb-2'>
-                @CodeOne Team 2022
+                @CodeOne Team 2024
       </h5>
       </div>
 
+    </div>
     </div>
   )
 }
