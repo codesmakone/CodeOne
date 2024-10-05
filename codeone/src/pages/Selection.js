@@ -36,7 +36,7 @@ const Selection = () => {
       <div className='my-5'>
         <h1 className='text-2xl font-medium mb-5'>Deadlines</h1>
         <p>
-        The submission deadline for the coding task is 23:59 WIB on the 12th September 2023. Any submissions later than that will not be accepted.
+        The submission deadline for the coding task is 23:59 WIB on the 12th September 2024. Any submissions later than that will not be accepted.
         </p>
       </div>
         <hr/>
