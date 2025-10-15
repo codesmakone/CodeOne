@@ -13,7 +13,7 @@ const Content = () =>{
                     </li>
                     <li>
                       <a href="#workshop" className="text-blue-400 font-semibold">
-                        The CodeOne Workshop 2024
+                        The CodeOne Workshop 2025
                       </a>
                     </li>
                     <li>
