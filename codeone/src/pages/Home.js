@@ -25,7 +25,7 @@ const Home = () =>{
             </a>
             </div>
                 <h5 className='text-right my-3'>
-                    @CodeOne Team 2024
+                    @CodeOne Team 2025
                 </h5>
             </div>
         </div>
