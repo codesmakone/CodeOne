@@ -27,8 +27,8 @@ const Content = () =>{
                       </a>
                     </li> */}
                     <li>
-                      <a href="#register" className="text-blue-400 font-semibold">
-                        Register
+                      <a href="https://codeone.smakone.org/selection" className="text-blue-400 font-semibold">
+                        CodeOne Selection Information
                       </a>
                     </li>
                 </ul>
