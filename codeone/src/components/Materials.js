@@ -6,15 +6,15 @@ const Materials = () => {
           <div className="my-5" id="what-is">
               <h4 className="text-lg font-bold">Session 1 (13 September 2024): Introduction To HTML and CSS</h4>
               <p className='text-lg'>
-                <a href="" target="blank" className='text-blue-400 font-semibold'>Video</a>
+                <a href="https://drive.google.com/file/d/1wxhN8L8pOKh5OyQhx667sBZRVxj7oC9P/view?usp=sharing" target="blank" className='text-blue-400 font-semibold'>Video</a>
               </p>
               <h4 className="text-lg font-bold">Session 2 (20 September 2024): Adding Functionalty With Javascript</h4>
               <p className='text-lg'>
-                <a href='' target="blank" className='text-blue-400 font-semibold'>Video</a>
+                <a href='https://drive.google.com/file/d/1ZAbowjwwNFUvmrWkDnsV5Zw2IYUBQ_wM/view?usp=sharing' target="blank" className='text-blue-400 font-semibold'>Video</a>
               </p>
               <h4 className="text-lg font-bold">Session 3 (27 September 2024): Powering Up With React</h4>
               <p className='text-lg'>
-                <a href='' target="blank" className='text-blue-400 font-semibold'>Video</a>
+                <a href='https://drive.google.com/file/d/12LlDwRbDyz-45maveRZJKyiotqDCMbzx/view?usp=sharing' target="blank" className='text-blue-400 font-semibold'>Video</a>
               </p>
               <h4 className="text-lg font-bold">CodeOne Selection</h4>
               <p className='text-lg'>
